@@ -19,6 +19,12 @@
 - 保留 Basilisk 自己的品牌名（不会把该显示 Basilisk 的地方换成 "Firefox"）
 - 保留 UTF-8 编码与所有 DTD 实体引用，多行 DTD 实体结构逐字校验
 
+## 📖 教程
+
+完整的安装、验证、卸载、常见问题，以及 **Basilisk 的语言机制是怎么工作的**、
+**官方 Pale Moon 语言包为什么在 Basilisk 上装不上**（含三条实测记录），
+都写在 **[docs/tutorial.md](docs/tutorial.md)**。
+
 ## 安装
 
 先把仓库克隆下来（或直接下载 [Releases](https://github.com/Savues/basilisk-zh-CN/releases) 里的 zip 解压），
@@ -75,6 +81,7 @@ Basilisk 走的是老式 Gecko 本地化：**没有** langpack 机制，也没�
 
 ```
 .
+├── docs/tutorial.md         # 汉化使用教程（含机制原理与实测记录）
 ├── install.ps1              # 安装 / 备份 / 覆盖
 ├── uninstall.ps1            # 还原英文
 ├── files/
