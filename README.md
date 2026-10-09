@@ -21,7 +21,7 @@
 
 ## 安装
 
-先把仓库克隆下来（或直接下载 [Releases](https://github.com/YOUR_ACCOUNT/basilisk-zh-CN/releases) 里的 zip 解压），
+先把仓库克隆下来（或直接下载 [Releases](https://github.com/Savues/basilisk-zh-CN/releases) 里的 zip 解压），
 然后在仓库目录下用 PowerShell 运行：
 
 ```powershell
@@ -38,6 +38,9 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 | `<安装目录>\omni.ja` | 工具包（toolkit）语言资源 |
 | `<安装目录>\browser\omni.ja` | 浏览器界面语言资源 |
 | `<安装目录>\defaults\pref\firefox-l10n.js` | 设置 `general.useragent.locale` 为 `zh-CN` |
+
+不想装 Git 的话，直接去 [Releases](https://github.com/Savues/basilisk-zh-CN/releases) 下载
+`basilisk-zh-CN-<版本号>.zip`，解压后同样运行 `install.ps1` 即可。
 
 ## 卸载 / 还原英文
 
