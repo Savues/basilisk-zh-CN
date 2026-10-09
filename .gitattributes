@@ -1,0 +1,12 @@
+# 默认按文本处理，仓库内统一用 LF
+* text=auto eol=lf
+
+# 打包好的语言资源是二进制（ZIP 容器），禁止任何行尾/过滤转换
+*.ja binary
+*.xpi binary
+*.zip binary
+
+# PowerShell / TSV 必须保持 UTF-8 与原有换行，不要动
+*.ps1 text eol=lf
+*.tsv text eol=lf
+*.js  text eol=lf

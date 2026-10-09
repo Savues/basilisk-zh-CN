@@ -1,0 +1,47 @@
+duplicateTab.label>>>复制标签页
+errorConsoleCmd.label>>>错误控制台
+containersSettings.label>>>管理容器
+syncSetup.label>>>设置 &syncBrand.shortName.label;…
+syncTabsMenu2.label>>>其他设备中的标签页
+syncTabsToolbarButton.label>>>同步的标签页
+addonInstallError-8>>>由于 %1$S 不支持 Jetpack (SDK) 扩展，%2$S 无法安装。
+addonInstallError-9>>>由于 %1$S 不支持 WebExtension，%2$S 无法安装。
+addonLocalInstallError-8>>>由于 %1$S 不支持 Jetpack (SDK) 扩展，%2$S 无法安装。
+addonLocalInstallError-9>>>由于 %1$S 不支持 WebExtension，%2$S 无法安装。
+cacheTab.label>>>缓存
+enableDNSPrefetch.label>>>预取 DNS 查询
+reduceMotion.label>>>优先减少视觉动态效果
+prefersColorScheme.caption>>>网页配色方案
+prefersColorScheme.label>>>当网页询问我偏好的配色方案时：
+prefersColorSchemeDark.label>>>使用深色
+prefersColorSchemeLight.label>>>使用浅色
+prefersColorSchemeDisabled.label>>>不提供偏好的配色方案
+prefersColorSchemeWarning>>>警告：不提供偏好的配色方案可能导致网站或服务无法正常工作。
+containers.addButton.label>>>新建容器
+containers.closeButton.label>>>关闭
+containers.color.label>>>颜色：
+containers.details.label>>>容器详情
+containers.dialog.description>>>创建和编辑容器，以分隔不同的浏览会话。
+containers.dialog.title>>>管理容器
+containers.icon.label>>>图标：
+containers.list.label>>>容器
+containers.name.label>>>名称：
+containers.removeButton.label>>>移除
+containers.saveButton.label>>>保存
+javascriptInternalUserscripts.label>>>启用内部用户脚本（polyfill）
+javascriptServiceWorkers.label>>>启用 Service Worker
+javascriptWasm.label>>>启用 WebAssembly (WASM)
+javascriptWebrtc.label>>>启用 WebRTC
+removeAllCookies.label>>>全部删除
+removeAllShownCookies.label>>>删除全部已显示的
+removeSelectedCookies.label>>>删除所选;删除所选
+containers.enable.label>>>启用容器标签页
+containers.label>>>容器
+dataPrivacy.label>>>数据隐私
+GPCLabel.label>>>告诉网站不要共享或出售我的数据
+GPCLearnMore.label>>>了解更多
+autofillPasswords.label>>>自动填充登录信息
+viewQuota.label>>>查看配额
+setup.setupMetro.label>>>与 Windows 8 风格的 &brandShortName; 同步
+tabs.containerTitleFormat>>>（%1$S）%2$S
+inspectorCopyCSSPath.label>>>CSS 路径

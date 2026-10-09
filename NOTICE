@@ -1,0 +1,21 @@
+Basilisk zh-CN 汉化包 —— 版权与来源说明
+==========================================
+
+本仓库包含两类内容，各自适用不同的许可：
+
+1) 界面译文（DTD / .properties 内容）
+
+   来源：Mozilla 官方 Firefox 52.0.2 简体中文（zh-CN）语言包，
+   下载自 https://www.mozilla.org/zh-CN/firefox/52.0.2/ 的 Windows 安装程序内的
+   core/omni.ja 与 core/browser/omni.ja。
+
+   版权归 Mozilla Foundation 及其贡献者所有，以 MPL-2.0 授权。
+   本项目仅将这些译文按键合并进 Basilisk 的资源文件，并修正品牌名。
+
+2) 脚本与构建产物（tools/、install.ps1、uninstall.ps1、files/*.ja）
+
+   由本项目编写，以 MPL-2.0 发布。
+
+Basilisk 是 Pale Moon 公司基于 Mozilla Gecko 代码库开发的浏览器。
+"Mozilla"、"Firefox"、"Pale Moon"、"Basilisk" 均为其各自权利人的商标。
+本项目为非官方第三方项目，与 Mozilla、Pale Moon 无隶属或背书关系。

@@ -1,0 +1,13 @@
+# 构建中间产物
+work/
+src/
+*.log
+
+# 旧版字典方案（已被 fx52 移植方案取代）
+tools/translate.ps1
+tools/build.ps1
+tools/translate-fx52.ps1.bak
+dict/
+
+# 打包输出
+*.zip
